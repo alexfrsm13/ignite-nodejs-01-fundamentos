@@ -1,0 +1,12 @@
+{
+  "name": "01-fundamentos-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto Fundamentos Node.js na Formação Node.js da Rocketseat.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Alex Fernando",
+  "license": "ISC",
+  "type": "module"
+}
